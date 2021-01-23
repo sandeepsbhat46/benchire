@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/benchire/static/css/main.0262c468.chunk.css",
+    "main.js": "/benchire/static/js/main.7e1727ef.chunk.js",
+    "main.js.map": "/benchire/static/js/main.7e1727ef.chunk.js.map",
+    "runtime-main.js": "/benchire/static/js/runtime-main.c4fa8990.js",
+    "runtime-main.js.map": "/benchire/static/js/runtime-main.c4fa8990.js.map",
+    "static/js/2.6daf42a9.chunk.js": "/benchire/static/js/2.6daf42a9.chunk.js",
+    "static/js/2.6daf42a9.chunk.js.map": "/benchire/static/js/2.6daf42a9.chunk.js.map",
+    "static/js/3.1e3bb05f.chunk.js": "/benchire/static/js/3.1e3bb05f.chunk.js",
+    "static/js/3.1e3bb05f.chunk.js.map": "/benchire/static/js/3.1e3bb05f.chunk.js.map",
+    "index.html": "/benchire/index.html",
+    "static/css/main.0262c468.chunk.css.map": "/benchire/static/css/main.0262c468.chunk.css.map",
+    "static/js/2.6daf42a9.chunk.js.LICENSE.txt": "/benchire/static/js/2.6daf42a9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/benchire/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4fa8990.js",
+    "static/js/2.6daf42a9.chunk.js",
+    "static/css/main.0262c468.chunk.css",
+    "static/js/main.7e1727ef.chunk.js"
+  ]
+}
