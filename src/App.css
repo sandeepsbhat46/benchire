@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App{
+  background: #9ca6ac5b;
+  min-height: 100vh;
+}
+.Button{
+  
+  float: left;
+}
+.TextBox{
+  
+  float: right;
+}

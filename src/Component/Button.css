@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Content{
+    display: flex;
+    margin: 0 50px;
+    width: 400px;
+    min-height: 40vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 40vh;
+    background: #9ca6ac5b;
+    box-shadow: 0 -15px 15px rgba(255,255,255,0.05),
+                inset 0 -15px 15px rgba(255,255,255,0.05),
+                0 15px 15px rgba(0, 0, 0, 0.3),
+                inset 0 15px 15px rgba(0,0,0,0.3);
+}
+.Normal{
+    display: flex;
+    width:100px;
+    position: relative;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 10px;
+    background: #9ca6ac00;
+    border: 1px solid #9ca6acad;
+    box-shadow: 0 -5px 5px rgba(255, 255, 255, 0.1),
+                inset 0 -15px 15px rgba(255, 255, 255, 0.01),
+                0 15px 15px rgba(138, 154, 160, 0.281),
+                inset 0 15px 15px rgba(120, 127, 128, 0.3);
+}
+.Focused{
+    display: flex;
+    width: 100px;
+    padding: 10px;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    color: #4a6e81ec;
+    background: #dee4e75e;
+    border: 2px solid #4a6e81ec;
+}
+.Pressed{
+    display: flex;
+    width: 100px;
+    padding: 10px;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    background: #f8f8f88a;
+    border: 2px solid #7e757511;;
+    box-shadow: 0 -15px 15px rgba(255,255,255,0.1),
+                inset 0 -15px 15px rgba(255,255,255,0.01),
+                0 15px 15px rgba(122, 132, 138, 0.1),
+                inset 0 15px 15px rgba(102, 117, 124, 0.3);
+
+}
+
+.Disabled{
+    display: flex;
+    width: 100px;
+    padding: 10px;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    color: #acb9c0;
+    background: #dee4e7;
+    border: 2px solid #a5aeb3ec;
+    box-shadow: inset 0 -15px 35px rgba(184, 192, 199, 0.89)
+
+}
